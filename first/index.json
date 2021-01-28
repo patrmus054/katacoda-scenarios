@@ -1,0 +1,21 @@
+{
+  "title": "test",
+  "description": "test",
+  "difficulty": "Beginner",
+  "time": "1 sec",
+  "details": {
+    "steps": [],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "openjdk:11"
+  }
+}
